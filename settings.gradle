@@ -1,0 +1,3 @@
+include ':messagefy:core'
+include ':app'
+rootProject.name = "messagefy"
